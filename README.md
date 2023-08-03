@@ -6,4 +6,4 @@ Na modalidade "Jogador vs Bot", o usuário joga contra um oponente automatizado,
 
 Além disso, o programa permite que o usuário escolha o tamanho do tabuleiro. O tamanho mínimo permitido é de 3x3, mas ele pode aumentar para tabuleiros maiores se desejar. O tabuleiro é representado graficamente com linhas e colunas numeradas, facilitando a visualização das posições para efetuar jogadas.
 
-Além disso é necessario baixar a biblioteca color, baixe ela usando o comando " Python3 -m pip install color "
+Além disso é necessario baixar a biblioteca termcolor, baixe ela usando o comando " Python3 -m pip install termcolor "
